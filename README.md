@@ -1,6 +1,6 @@
 # Market-based-Coordination-of-Integrated-Electricity-and-Natural-Gas-Systems-under-Uncertain-Supply
 
-This repository contains the supplementary material for the paper "Market-based Coordination for Integrated Electricity and Natural Gas Systems under Uncertain Supply". This is a joint work by Christos Ordoudis, Stefanos Delikaraoglou, Jalal Kazempour and Pierre Pinson.
+This repository contains the supplementary material for the paper "Market-based Coordination of Integrated Electricity and Natural Gas Systems under Uncertain Supply". This is a joint work by Christos Ordoudis, Stefanos Delikaraoglou, Jalal Kazempour and Pierre Pinson.
 
 In this repository, we provide:
    1. The electronic companion.
